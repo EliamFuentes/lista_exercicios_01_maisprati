@@ -1,37 +1,41 @@
 # 📝 Lista de Exercícios 1 - Estudando as estruturas básicas. +PraTi & Codifica Edu
-<hr />
-Este projeto contém 15 exercícios escritos em JavaScript com Node.js, numerados de ex01.js até ex15.js.
 
-📋 Pré-requisitos
-Antes de começar, você precisa ter o Node.js instalado na sua máquina. Recomenda-se a versão 14 ou superior.
+Estes exercicios foram disponibilizados durante o curso Desenvolvedor FullStack Junior da +PraTi & Codifica Edu.
 
-⚙️ Instalação
-Clone este repositório:
+O projeto contém 15 exercícios feito em JavaScript, usando o Node.js.
 
-git clone https://github.com/tenchini/lista-exercicios-maispraTi-VT
-cd seu-repositorio
-Instale a única dependência necessária:
+## 📋 Pré-requisitos
 
-npm install
-🚨 Este projeto utiliza apenas a biblioteca prompt-sync para permitir entrada de dados pelo terminal.
+Para iniciar o projeto é precisa ter o Node.js instalado na sua máquina. Além disso, a extensão Code Runner será muito útil para executar os exercícios.
 
-▶️ Como executar os exercícios
-Os arquivos estão localizados na raiz do projeto, nomeados de ex01.js até ex15.js.
+## ⚙️ Instalação
+
+1. Clone este repositório:
+
+    ```bash
+    git clone https://github.com/EliamFuentes/lista_exercicios_01_maisprati
+    cd seu-repositorio
+    ```
+
+2. Instale a única dependência necessária:
+
+    ```bash
+    npm install
+    ```
+
+🚨 Este projeto utiliza a biblioteca prompt-sync para permitir entrada de dados pelo terminal.
+
+⚠️Para isso execute o comando:
+```bash
+npm install prompt-sync
+```
+
+## ▶️ Como executar os exercícios
+
+Os arquivos estão localizados na raiz do projeto, nomeados de exercicio1.js até exercicio15.js.
 
 Para executar qualquer exercício, use o comando:
 
-node ex01.js
-⚠️ Substitua ex01.js pelo nome do exercício que deseja testar, como ex05.js, ex12.js, etc.
-
-🧾 Estrutura do projeto
-/
-├── ex01.js
-├── ex02.js
-├── ...
-├── ex15.js
-├── package.json
-└── README.md
-✅ Observações
-Certifique-se de estar no diretório correto ao rodar os arquivos.
-
-Você pode editar os arquivos diretamente para testar variações dos exercícios.
+```bash
+node exercicio1.js
+```
