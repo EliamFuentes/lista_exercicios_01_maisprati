@@ -39,3 +39,7 @@ Para executar qualquer exercício, use o comando:
 ```bash
 node exercicio1.js
 ```
+
+OU
+
+Utilize a extensão Code Runner no Visual Studio Code.
