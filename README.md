@@ -13,7 +13,7 @@ Para iniciar o projeto é precisa ter o Node.js instalado na sua máquina. Além
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/EliamFuentes/lista_exercicios_01_maisprati
+    git clone https://github.com/EliamFuentes/lista_exercicios_01_maisprati.git
     cd seu-repositorio
     ```
 
