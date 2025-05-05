@@ -42,4 +42,4 @@ node exercicio1.js
 
 OU
 
-Utilize a extensão Code Runner no Visual Studio Code.
+Utilize a extensão Code Runner no Visual Studio Code apertando o botão play ▶️ e executando no terminal.
